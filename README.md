@@ -49,7 +49,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohamed-A-Shahat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Mohamed-A-Shahat&theme=tokyonight&hide_border=true" />
