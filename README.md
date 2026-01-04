@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Mohamed A. Shahat 👋
+# Hi there, I'm Mohamed Ahmed 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -33,26 +33,22 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [🍽️ Mealify](https://github.com/Mohamed-A-Shahat/rout-mealify-restaurant-website) | Restaurant website with modern design | HTML, CSS |
-| [👨‍💻 Fokir](https://github.com/Mohamed-A-Shahat/rout-fokir-portfolio) | Personal portfolio template | HTML, CSS |
-| [🚀 Devfolio](https://github.com/Mohamed-A-Shahat/rout-devfolio-developer-portfolio) | Developer portfolio with Bootstrap | HTML, CSS, Bootstrap |
-| [🎨 Daniels](https://github.com/Mohamed-A-Shahat/rout-daniels-portfolio) | Creative portfolio website | HTML, CSS, Bootstrap |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-A-Shahat&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-A-Shahat&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Mohamed-A-Shahat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-A-Shahat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/Mohamed-A-Shahat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-A-Shahat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-A-Shahat&theme=tokyonight&hide_border=true)
+<br/>
+
+<a href="https://github.com/Mohamed-A-Shahat">
+  <img src="https://streak-stats.demolab.com/?user=Mohamed-A-Shahat&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
