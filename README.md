@@ -37,18 +37,25 @@
 
 <div align="center">
 
-<!-- <a href="https://github.com/Mohamed-A-Shahat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-A-Shahat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/Mohamed-A-Shahat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-A-Shahat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohamed-A-Shahat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohamed-A-Shahat&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohamed-A-Shahat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</picture>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohamed-A-Shahat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohamed-A-Shahat&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohamed-A-Shahat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</picture>
 
-<a href="https://github.com/Mohamed-A-Shahat">
-  <img src="https://streak-stats.demolab.com/?user=Mohamed-A-Shahat&theme=tokyonight&hide_border=true" />
-</a>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Mohamed-A-Shahat&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Mohamed-A-Shahat&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mohamed-A-Shahat&theme=tokyonight&hide_border=true" />
+</picture>
 
 </div>
 
