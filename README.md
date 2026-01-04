@@ -37,12 +37,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Mohamed-A-Shahat">
+<!-- <a href="https://github.com/Mohamed-A-Shahat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-A-Shahat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/Mohamed-A-Shahat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-A-Shahat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+</a> -->
 
 <br/>
 
